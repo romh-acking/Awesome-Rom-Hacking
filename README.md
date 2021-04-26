@@ -87,5 +87,20 @@ Table of Contents
 * [Gaming Alexandria](https://www.gamingalexandria.com/) - A website for a scanning group
 * [Apple II disassembly projects](https://6502disassembly.com/)
 * [Retro Gallery](https://tomseditor.com/gallery/&lang=en)
-* [Aeon Genesis](https://aeongenesis.net/)
+
 * [Rare Gaming Dump](https://wiki.mariocube.com/index.php/Main_Page)
+* [GBATemp](https://gbatemp.net/)
+
+### Translations
+* [Aeon Genesis](https://aeongenesis.net/)
+* [DvD Translations](https://dvdtranslations.eludevisibility.org/)
+* [DDS Translations](https://www.translated.games/)
+* [StarDust Crusaders Translations](http://yojimbo.eludevisibility.org/)
+* [KingMike's Translations](https://web.archive.org/web/20120815093102/http://kingmike.emuxhaven.net/)
+
+### Homebrew
+* [WiiBrew](https://wiibrew.org/)
+* [DSiBrew](https://dsibrew.org)
+* [3DBrew](https://www.3dbrew.org/)
+* [WiiUBrew](https://wiiubrew.org/)
+* [SwitchBrew](https://switchbrew.org/wiki/Main_Page)
