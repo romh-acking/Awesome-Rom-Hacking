@@ -37,7 +37,7 @@ Table of Contents
 ## [↑](#table-of-contents) Japanese Computers
 * [pc98.org](https://www.pc98.org/main.html)
 * [PC-98 Central Forum](https://pc98central.com/forums/)
-* [Drivers Website](https://support.nec-lavie.jp/driver)
+* [NEC Drivers](https://support.nec-lavie.jp/driver)
 
 ## [↑](#table-of-contents) Disassemblies / Decompilations / Source Code
 * [N64 Decompilations](https://github.com/n64decomp/)
