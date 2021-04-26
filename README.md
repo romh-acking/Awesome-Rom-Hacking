@@ -76,7 +76,6 @@ Table of Contents
 * [Mupen64Plus](https://mupen64plus.org/)
 * [Nesticle](https://github.com/athros/NESticle) - For posterity
 * [SameBoy](https://sameboy.github.io/)
-* [SameBoy](https://sameboy.github.io/)
 * [Emulicious](https://emulicious.net/)
 * [RetroArch](https://www.retroarch.com/)
 * [Mednafen](https://mednafen.github.io/)
