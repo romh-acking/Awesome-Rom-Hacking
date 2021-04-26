@@ -23,7 +23,7 @@ Table of Contents
 ## [↑](#table-of-contents) NES
 * [NesDev](http://nesdev.com/)
     * [NesDev wiki backup](https://pineight.com/nesdev-temp/wikipages/)
-* [](https://skilldrick.github.io/easy6502/) - An interactive website that will help you learn the 6502 assembly language
+* [Easy 6502](https://skilldrick.github.io/easy6502/) - An interactive website that will help you learn the 6502 assembly language
 * [Nesmaker](https://www.thenew8bitheroes.com/)
 * [nesdoug](https://nesdoug.com/)
 * [NES Development Discord](https://discord.gg/sthFzMS)
