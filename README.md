@@ -39,7 +39,7 @@ Table of Contents
 * [PC-98 Central Forum](https://pc98central.com/forums/)
 * [Drivers Website](https://support.nec-lavie.jp/driver)
 
-##[↑](#table-of-contents) Disassemblies / Decompilations / Source Code
+## [↑](#table-of-contents) Disassemblies / Decompilations / Source Code
 * [N64 Decompilations](https://github.com/n64decomp/)
 * [Zelda Decompilations](https://github.com/zeldaret/)
 * [Pokemon Decompilations](https://github.com/pret/)
@@ -47,7 +47,7 @@ Table of Contents
 * [Super Mario All-Stars](https://github.com/Maseya/SMAS-Disassembly)
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
 
-##[↑](#table-of-contents) Music
+## [↑](#table-of-contents) Music
 * [FamiTracker](http://www.famitracker.com/)
 * [DefelMask](https://deflemask.com/)
 * [Battle of the Bits](http://battleofthebits.org/)
