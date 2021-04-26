@@ -89,6 +89,7 @@ Table of Contents
 * [Retro Gallery](https://tomseditor.com/gallery/&lang=en)
 * [Rare Gaming Dump](https://wiki.mariocube.com/index.php/Main_Page)
 * [GBATemp](https://gbatemp.net/)
+* [XeNTaX](https://forum.xentax.com/)
 
 ### Translations
 * [Aeon Genesis](https://aeongenesis.net/)
