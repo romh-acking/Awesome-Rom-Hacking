@@ -10,7 +10,7 @@ Table of Contents
  * [NES](#-nes)
  * [SNES](#-snes)
  * [Japanese Computers](#-japanese-computers)
- * [Disassemblies](#-disassemblies)
+ * [Disassemblies](#-disassemblies-decompilations-source-code)
  * [Music](#-music)
  * [Miscellaneous](#-miscellaneous)
 
@@ -29,7 +29,7 @@ Table of Contents
 * [NES Development Discord](https://discord.gg/sthFzMS)
 
 ## [↑](#table-of-contents) SNES
-* [https://wiki.superfamicom.org/](SFC Development Wiki)
+* [SFC Development Wiki](https://wiki.superfamicom.org/)
 * [SNES Development Discord](https://discord.gg/yXNEV6p)
 * [Higan](https://higan.dev/)
 * [Snes Central](https://snescentral.com/)
