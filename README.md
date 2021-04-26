@@ -87,7 +87,6 @@ Table of Contents
 * [Gaming Alexandria](https://www.gamingalexandria.com/) - A website for a scanning group
 * [Apple II disassembly projects](https://6502disassembly.com/)
 * [Retro Gallery](https://tomseditor.com/gallery/&lang=en)
-
 * [Rare Gaming Dump](https://wiki.mariocube.com/index.php/Main_Page)
 * [GBATemp](https://gbatemp.net/)
 
