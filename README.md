@@ -39,7 +39,7 @@ Table of Contents
 * [Super Mario World Central](https://www.smwcentral.net/)
 
 ## [↑](#table-of-contents) Japanese Computers
-* [pc98.org](https://www.pc98.org/main.html)
+* [pc98.org](https://www.pc98.org/)
 * [PC-98 Central Forum](https://pc98central.com/forums/)
 * [NEC Drivers](https://support.nec-lavie.jp/driver)
 
