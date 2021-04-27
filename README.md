@@ -87,7 +87,7 @@ Table of Contents
 
 ### Graphics
 * [TileShop](https://github.com/stevemonaco/ImageMagitek)
-* [YY-CHR](https://www.romhacking.net/utilities/119/)
+* [YY-CHR](https://www.romhacking.net/utilities/119/) ([Official website](https://w.atwiki.jp/yychr/))
 * [YY-CHR C#](https://www.romhacking.net/utilities/958/)
 * [Tile Layer Pro](https://www.romhacking.net/utilities/108/)
 * [Tile Molester](https://www.romhacking.net/utilities/109/)
