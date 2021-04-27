@@ -13,6 +13,7 @@ Table of Contents
  * [Disassemblies](#-disassemblies-decompilations-source-code)
  * [Music](#-music)
  * [Emulators](#-emulators)
+ * [Tools](#-tools)
  * [Miscellaneous](#-miscellaneous)
 
 ## [↑](#table-of-contents) Dats
@@ -81,6 +82,31 @@ Table of Contents
 * [Emulicious](https://emulicious.net/)
 * [RetroArch](https://www.retroarch.com/)
 * [Mednafen](https://mednafen.github.io/)
+
+## [↑](#table-of-contents) Tools
+
+### Graphics
+* [TileShop](https://github.com/stevemonaco/ImageMagitek)
+* [YY-CHR](https://www.romhacking.net/utilities/119/)
+* [YY-CHR C#](https://www.romhacking.net/utilities/958/)
+* [Tile Layer Pro](https://www.romhacking.net/utilities/108/)
+* [Tile Molester](https://www.romhacking.net/utilities/109/)
+* 
+### Hex Editors
+* [HexWorkshop](http://www.hexworkshop.com/)
+* [imhex](https://github.com/WerWolv/ImHex/)
+* [WindHex](https://www.romhacking.net/utilities/291/)
+
+### Translation Tools
+* [Cartographer](https://www.romhacking.net/utilities/647/) - Script dumper
+* [Atlas](https://www.romhacking.net/utilities/224/) - Script inserter
+* [abcde](https://www.romhacking.net/utilities/1392/)
+
+### File extractors
+* [ResourcesExtract](https://www.nirsoft.net/utils/resources_extract.html)
+* [MultiExtractor](www.multiextractor.com)
+* [Binwalk](http://binwalk.org/)
+* [vgmtoolbox](https://github.com/larrykoubiak/vgmtoolbox)
 
 ## [↑](#table-of-contents) Miscellaneous
 * [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
