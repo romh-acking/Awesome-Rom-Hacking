@@ -101,6 +101,7 @@ Table of Contents
 * [Cartographer](https://www.romhacking.net/utilities/647/) - Script dumper
 * [Atlas](https://www.romhacking.net/utilities/224/) - Script inserter
 * [abcde](https://www.romhacking.net/utilities/1392/)
+* [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
 
 ### File Extractors
 * [ResourcesExtract](https://www.nirsoft.net/utils/resources_extract.html)
@@ -113,6 +114,7 @@ Table of Contents
 * [JPEXS](https://www.free-decompiler.com/flash/download/)
 * [Dragon UnPACKer](https://www.elberethzone.net/dragon-unpacker.html)
 * [puyotools](https://github.com/nickworonekin/puyotools)
+* [BrawlCrate](https://github.com/soopercool101/BrawlCrate)
 
 ## [↑](#table-of-contents) Miscellaneous
 * [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
