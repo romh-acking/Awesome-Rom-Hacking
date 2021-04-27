@@ -103,7 +103,7 @@ Table of Contents
 * [abcde](https://www.romhacking.net/utilities/1392/)
 * [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
 
-### File Extractors
+### File Extractors / Inserters
 * [ResourcesExtract](https://www.nirsoft.net/utils/resources_extract.html)
 * [MultiExtractor](www.multiextractor.com)
 * [Binwalk](http://binwalk.org/)
@@ -115,6 +115,8 @@ Table of Contents
 * [Dragon UnPACKer](https://www.elberethzone.net/dragon-unpacker.html)
 * [puyotools](https://github.com/nickworonekin/puyotools)
 * [BrawlCrate](https://github.com/soopercool101/BrawlCrate)
+* [CDGenPS2](https://www.psx-place.com/resources/cdgenps2.698/)
+* cdvdgen
 
 ## [↑](#table-of-contents) Miscellaneous
 * [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
