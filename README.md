@@ -91,7 +91,7 @@ Table of Contents
 * [YY-CHR C#](https://www.romhacking.net/utilities/958/)
 * [Tile Layer Pro](https://www.romhacking.net/utilities/108/)
 * [Tile Molester](https://www.romhacking.net/utilities/109/)
-* 
+
 ### Hex Editors
 * [HexWorkshop](http://www.hexworkshop.com/)
 * [imhex](https://github.com/WerWolv/ImHex/)
