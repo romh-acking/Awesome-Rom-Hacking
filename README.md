@@ -51,6 +51,7 @@ Table of Contents
 * [Super Mario All-Stars](https://github.com/Maseya/SMAS-Disassembly)
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
 * [Apple II disassembly projects](https://6502disassembly.com/)
+* [Phantasy Star IV Disassembly](https://github.com/lory90/ps4disasm)
 
 ## [↑](#table-of-contents) Music
 ### Trackers
@@ -83,6 +84,7 @@ Table of Contents
 
 ## [↑](#table-of-contents) Miscellaneous
 * [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
+* [DataCrystal](https://datacrystal.romhacking.net/)
 * [The Cutting Room Floor](https://tcrf.net/) - A datamine website that documents unused content in games
 * [Misc Data Digs](http://miscdatadigs.shoutwiki.com/) - A datamine website that documents unused content in stuff TCRF doesn't document
 * [Gaming Alexandria](https://www.gamingalexandria.com/) - A website for a scanning group
