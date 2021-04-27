@@ -102,11 +102,17 @@ Table of Contents
 * [Atlas](https://www.romhacking.net/utilities/224/) - Script inserter
 * [abcde](https://www.romhacking.net/utilities/1392/)
 
-### File extractors
+### File Extractors
 * [ResourcesExtract](https://www.nirsoft.net/utils/resources_extract.html)
 * [MultiExtractor](www.multiextractor.com)
 * [Binwalk](http://binwalk.org/)
 * [vgmtoolbox](https://github.com/larrykoubiak/vgmtoolbox)
+* [GDRom Explorer](https://www.romhacking.net/utilities/1459/)
+* [tinke](https://github.com/pleonex/tinke)
+* [jpsxdec](https://github.com/m35/jpsxdec)
+* [JPEXS](https://www.free-decompiler.com/flash/download/)
+* [Dragon UnPACKer](https://www.elberethzone.net/dragon-unpacker.html)
+* [puyotools](https://github.com/nickworonekin/puyotools)
 
 ## [↑](#table-of-contents) Miscellaneous
 * [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
