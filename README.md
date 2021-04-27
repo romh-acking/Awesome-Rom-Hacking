@@ -128,6 +128,7 @@ Table of Contents
 * [Rare Gaming Dump](https://wiki.mariocube.com/index.php/Main_Page)
 * [GBATemp](https://gbatemp.net/)
 * [XeNTaX](https://forum.xentax.com/)
+* [Redump Wiki](http://wiki.redump.org/index.php?title=Main_Page)
 
 ### Translations
 * [Aeon Genesis](https://aeongenesis.net/)
