@@ -129,6 +129,7 @@ Table of Contents
 * [GBATemp](https://gbatemp.net/)
 * [XeNTaX](https://forum.xentax.com/)
 * [Redump Wiki](http://wiki.redump.org/index.php?title=Main_Page)
+* [GBA Explorer](https://www.romhacking.net/utilities/1442/)
 
 ### Translations
 * [Aeon Genesis](https://aeongenesis.net/)
