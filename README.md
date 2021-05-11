@@ -144,3 +144,4 @@ Table of Contents
 * [3DBrew](https://www.3dbrew.org/)
 * [WiiUBrew](https://wiiubrew.org/)
 * [SwitchBrew](https://switchbrew.org/wiki/Main_Page)
+* [ps3homebrew](https://www.reddit.com/r/ps3homebrew/wiki/how_to_hack)
