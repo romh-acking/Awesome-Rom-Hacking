@@ -46,6 +46,7 @@ Table of Contents
 
 ## [↑](#table-of-contents) Disassemblies / Decompilations / Source Code
 * [N64 Decompilations](https://github.com/n64decomp/)
+* [GCN](https://github.com/doldecomp/)
 * [Zelda Decompilations](https://github.com/zeldaret/)
 * [Pokemon Decompilations](https://github.com/pret/)
 * [Super Mario 1](https://github.com/threecreepio/smb-disassembly)
@@ -134,7 +135,7 @@ Table of Contents
 ### Translations
 * [Aeon Genesis](https://aeongenesis.net/)
 * [DvD Translations](https://dvdtranslations.eludevisibility.org/)
-* [DDS Translations](https://www.translated.games/)
+* [DDS Translations](https://web.archive.org/web/20210412142636/https://www.translated.games/)
 * [StarDust Crusaders Translations](http://yojimbo.eludevisibility.org/)
 * [KingMike's Translations](https://web.archive.org/web/20120815093102/http://kingmike.emuxhaven.net/)
 
