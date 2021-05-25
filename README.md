@@ -46,7 +46,7 @@ Table of Contents
 
 ## [↑](#table-of-contents) Disassemblies / Decompilations / Source Code
 * [N64 Decompilations](https://github.com/n64decomp/)
-* [GCN](https://github.com/doldecomp/)
+* [GCN Decompilations](https://github.com/doldecomp/)
 * [Zelda Decompilations](https://github.com/zeldaret/)
 * [Pokemon Decompilations](https://github.com/pret/)
 * [Super Mario 1](https://github.com/threecreepio/smb-disassembly)
