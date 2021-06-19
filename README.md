@@ -54,7 +54,9 @@ Table of Contents
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
 * [Space Station Silicon Valley](https://github.com/mkst/sssv)
 * [Apple II disassembly projects](https://6502disassembly.com/)
+* [Phantasy Star I Disassembly](https://github.com/lory90/ps1disasm)
 * [Phantasy Star II Disassembly](https://github.com/lory90/ps2disasm)
+* [Phantasy Star III Disassembly](https://github.com/lory90/ps3disasm)
 * [Phantasy Star IV Disassembly](https://github.com/lory90/ps4disasm)
 
 ## [↑](#table-of-contents) Music
