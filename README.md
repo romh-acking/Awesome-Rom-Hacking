@@ -52,7 +52,9 @@ Table of Contents
 * [Super Mario 1](https://github.com/threecreepio/smb-disassembly)
 * [Super Mario All-Stars](https://github.com/Maseya/SMAS-Disassembly)
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
+* [Space Station Silicon Valley](https://github.com/mkst/sssv)
 * [Apple II disassembly projects](https://6502disassembly.com/)
+* [Phantasy Star II Disassembly](https://github.com/lory90/ps2disasm)
 * [Phantasy Star IV Disassembly](https://github.com/lory90/ps4disasm)
 
 ## [↑](#table-of-contents) Music
