@@ -31,13 +31,13 @@ Table of Contents
 
 ### Famicom Disk System
 
-# General
+#### General
 * [famicomdisksystem.com](https://www.famicomdisksystem.com)
 * [Famicom World](https://famicomworld.com)
 
-# Disk File System Tools
+#### Disk File System Tools
 
-## FDS Builder
+##### FDS Builder
 A tool to split .fds images into separate files as well re-assemble the files into a new .fds images.
 
 * [FDS Builder, ID version](https://www.romhacking.net/utilities/302/)
