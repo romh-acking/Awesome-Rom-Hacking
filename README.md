@@ -69,7 +69,7 @@ A tool to split .fds images into separate files as well re-assemble the files in
 * [Phantasy Star II Disassembly](https://github.com/lory90/ps2disasm)
 * [Phantasy Star III Disassembly](https://github.com/lory90/ps3disasm)
 * [Phantasy Star IV Disassembly](https://github.com/lory90/ps4disasm)
-* [NES Disassemblies by cyneprepou4uk]()https://github.com/cyneprepou4uk/NES-Games-Disassembly
+* [NES Disassemblies by cyneprepou4uk](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
 
 ## [↑](#table-of-contents) Music
 ### Trackers
