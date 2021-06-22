@@ -122,12 +122,12 @@ A tool to split .fds images into separate files as well re-assemble the files in
 
 ### File Extractors / Inserters
 * [ResourcesExtract](https://www.nirsoft.net/utils/resources_extract.html)
-* [MultiExtractor](www.multiextractor.com)
-* [Binwalk](http://binwalk.org/)
-* [vgmtoolbox](https://github.com/larrykoubiak/vgmtoolbox)
+* [MultiExtractor](https://www.multiextractor.com/index.html)
+* [Binwalk](https://tools.kali.org/forensics/binwalk) - A tool for searching a given binary image for embedded files and executable code.
+* [vgmtoolbox](https://github.com/larrykoubiak/vgmtoolbox) -  A tool for auditing your emulated music files
 * [GDRom Explorer](https://www.romhacking.net/utilities/1459/)
-* [tinke](https://github.com/pleonex/tinke)
-* [jpsxdec](https://github.com/m35/jpsxdec)
+* [tinke](https://github.com/pleonex/tinke) -  Viewer and editor for files of NDS games 
+* [jpsxdec](https://github.com/m35/jpsxdec) - Cross-platform PlayStation 1 audio/video converter
 * [JPEXS](https://www.free-decompiler.com/flash/download/)
 * [Dragon UnPACKer](https://www.elberethzone.net/dragon-unpacker.html)
 * [puyotools](https://github.com/nickworonekin/puyotools)
