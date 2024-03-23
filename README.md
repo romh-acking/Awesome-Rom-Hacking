@@ -137,7 +137,7 @@ A tool to split .fds images into separate files as well re-assemble the files in
 * cdvdgen
 
 ## [↑](#table-of-contents) Miscellaneous
-* [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
+* [Romhacking.net (RHDN)](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
 * [DataCrystal](https://datacrystal.romhacking.net/)
 * [The Cutting Room Floor](https://tcrf.net/) - A datamine website that documents unused content in games
 * [Misc Data Digs](http://miscdatadigs.shoutwiki.com/) - A datamine website that documents unused content in stuff TCRF doesn't document
@@ -148,6 +148,12 @@ A tool to split .fds images into separate files as well re-assemble the files in
 * [XeNTaX](https://forum.xentax.com/)
 * [Redump Wiki](http://wiki.redump.org/index.php?title=Main_Page)
 * [GBA Explorer](https://www.romhacking.net/utilities/1442/)
+* [SMW Central](https://smwcentral.net) - A website for Super Mario World rom hacks, with information and tutorials applicable to other SNES games
+* [Metroid Construction](https://metroidconstruction.com) - A website for Metroid rom hacks
+* [PokeCommunity Forums](https://pokecommunity.com) - A forum including Pokemon rom hacks and Pokemon rom hacking resources
+* [Doom World](https://doomworld.com) - A website including Doom rom hacks and Doom rom hacking resources
+* [Game Banana](https://gamebanana.com) - A database of video game mods
+* [Romhack Hispano](https://romhackhispano.org) - A Spanish rom hacking website
 
 ### Translations
 * [Aeon Genesis](https://aeongenesis.net/)
