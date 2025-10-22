@@ -83,7 +83,7 @@ A tool to split .fds images into separate files as well re-assemble the files in
 * [HCS64](https://hcs64.com/)
 * [ModLand](https://www.exotica.org.uk/wiki/Modland)
 * [The Mod Archive](https://modarchive.org/index.php)
-* [mrnorbert1994's website](mrnorbert1994.uw.hu)
+* [mrnorbert1994's website]([https://mrnorbert1994.uw.hu](https://web.archive.org/web/20210518212720/https://mrnorbert1994.uw.hu))
 
 ### Miscellaneous 
 * [Battle of the Bits](http://battleofthebits.org/)
@@ -137,7 +137,8 @@ A tool to split .fds images into separate files as well re-assemble the files in
 * cdvdgen
 
 ## [↑](#table-of-contents) Miscellaneous
-* [Romhack.ing](https://www.romhack.ing/) - A database of rom hacks, translation, and utilities
+* [Romhack.ing](https://romhack.ing/) - A database of rom hacks, translation, and utilities
+* [RomhackPlaza.org](https://romhackplaza.org/) - A database of rom hacks, translation, and utilities
 * [Romhacking.net](https://www.romhacking.net/) - A database of rom hacks, translation, and utilities
 * [DataCrystal](https://datacrystal.romhacking.net/)
 * [The Cutting Room Floor](https://tcrf.net/) - A datamine website that documents unused content in games
