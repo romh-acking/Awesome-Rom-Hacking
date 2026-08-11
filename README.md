@@ -135,6 +135,7 @@ A tool to split .fds images into separate files as well re-assemble the files in
 * [BrawlCrate](https://github.com/soopercool101/BrawlCrate)
 * [CDGenPS2](https://www.psx-place.com/resources/cdgenps2.698/)
 * cdvdgen
+* [sc64-maps](https://github.com/dmang-dev/sc64-maps) - Extracts the scenarios from a StarCraft 64 ROM and repackages them as playable PC StarCraft maps
 
 ## [↑](#table-of-contents) Miscellaneous
 * [Romhack.ing](https://romhack.ing/) - A database of rom hacks, translation, and utilities
